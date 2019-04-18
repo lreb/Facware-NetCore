@@ -1,0 +1,6 @@
+2019-04-18 10:11:22.0826 INFO EMAIL: {}
+2019-04-18 10:12:48.0287 INFO EMAIL: {}
+2019-04-18 10:18:26.5700 INFO EMAIL: {}
+2019-04-18 10:24:04.1727 INFO EMAIL: {"StatusCode":0,"ResultCode":1,"EventReference":null,"Success":true,"Warning":false,"Fail":false,"Data":null,"Message":"EmailTrue","MessageDetail":null}
+2019-04-18 10:25:25.3630 INFO EMAIL: {"StatusCode":0,"ResultCode":1,"EventReference":null,"Success":true,"Warning":false,"Fail":false,"Data":null,"Message":"EmailTrue","MessageDetail":null}
+2019-04-18 10:30:08.2282 INFO EMAIL: {"StatusCode":200,"ResultCode":1,"EventReference":null,"Success":true,"Warning":false,"Fail":false,"Data":null,"Message":"EmailTrue","MessageDetail":null}

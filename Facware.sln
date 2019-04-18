@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facware.Services.Email", "Facware.Services.Email\Facware.Services.Email.csproj", "{B41ED225-ABB1-4D83-AD07-8A28322719E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facware.Library.Logger", "Facware.Library.Logger\Facware.Library.Logger.csproj", "{4EA3AFAF-977C-4949-B09C-D70F8D558B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facware.Library.Utility", "Facware.Library.Utility\Facware.Library.Utility.csproj", "{99A7B172-C50F-4578-864D-0AD70E7F2760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41ED225-ABB1-4D83-AD07-8A28322719E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41ED225-ABB1-4D83-AD07-8A28322719E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41ED225-ABB1-4D83-AD07-8A28322719E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41ED225-ABB1-4D83-AD07-8A28322719E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA3AFAF-977C-4949-B09C-D70F8D558B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA3AFAF-977C-4949-B09C-D70F8D558B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA3AFAF-977C-4949-B09C-D70F8D558B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA3AFAF-977C-4949-B09C-D70F8D558B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A7B172-C50F-4578-864D-0AD70E7F2760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A7B172-C50F-4578-864D-0AD70E7F2760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A7B172-C50F-4578-864D-0AD70E7F2760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A7B172-C50F-4578-864D-0AD70E7F2760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
